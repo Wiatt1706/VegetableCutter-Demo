@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# JavaFX
+*.jfx-i18n.properties
+*.jfx-impl.jar
+*.jfx-agent.jar
+*.jfx-native-platform.jar
+deploy/
+nbproject/private/
+.nb-gradle/
+
+# Gradle
